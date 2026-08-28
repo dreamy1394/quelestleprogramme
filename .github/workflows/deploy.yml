@@ -1,0 +1,121 @@
+name: Déploiement IONOS
+
+# Git est la source de vérité. Ce workflow pousse le site sur IONOS par FTPS
+# à chaque commit sur main. Le back-office et les outils de veille ne sont
+# jamais déployés : ils restent des outils locaux.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+      - 'data/_veille/**'
+  workflow_dispatch:
+
+concurrency:
+  group: deploiement
+  cancel-in-progress: true
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    outputs:
+      valide: ${{ steps.verif.outcome == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          coverage: none
+
+      - name: Contrôler la syntaxe PHP et la validité des JSON
+        id: verif
+        run: |
+          find . -name '*.php' -not -path './tools/*' -print0 | xargs -0 -n1 php -l
+          for f in data/themes.json data/sources.json data/candidats/*.json; do
+            php -r 'json_decode(file_get_contents($argv[1]), true);
+                    if (json_last_error() !== JSON_ERROR_NONE) {
+                      fwrite(STDERR, $argv[1].": ".json_last_error_msg()."\n"); exit(1);
+                    }' "$f"
+          done
+
+      - name: Refuser un déploiement en brouillon forcé
+        run: |
+          if grep -qE "FORCER_BROUILLON\s*=\s*true" inc/config.php; then
+            echo "::error::FORCER_BROUILLON est à true : le site afficherait ses avertissements internes en production."
+            exit 1
+          fi
+
+      - name: Refuser des mentions légales incomplètes
+        run: |
+          if grep -q "À compléter" inc/config.php; then
+            echo "::error::Les mentions légales contiennent encore des champs à compléter (obligation LCEN)."
+            exit 1
+          fi
+
+  deployer:
+    needs: controle
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      # Synchronisation par SFTP (port 22) : c'est le protocole de l'hébergement
+      # Linux IONOS. On utilise lftp directement plutôt qu'une action tierce :
+      # les identifiants du serveur ne transitent par aucun code que l'on ne
+      # contrôle pas. Le mot de passe passe par l'entrée standard, pas par la
+      # ligne de commande.
+      - name: Synchroniser vers IONOS par SFTP
+        env:
+          HOTE: ${{ secrets.IONOS_SFTP_SERVEUR }}
+          UTILISATEUR: ${{ secrets.IONOS_SFTP_UTILISATEUR }}
+          MOTDEPASSE: ${{ secrets.IONOS_SFTP_MOTDEPASSE }}
+          DISTANT: ${{ secrets.IONOS_DOSSIER_DISTANT }}
+          SIMULATION: ${{ vars.SIMULATION_DEPLOIEMENT }}
+        run: |
+          if [ "$SIMULATION" = "true" ]; then
+            MODE="--dry-run"
+            echo "::warning::Mode simulation actif : rien ne sera écrit sur le serveur."
+          else
+            MODE=""
+          fi
+
+          lftp -c "
+            set sftp:auto-confirm yes;
+            set net:max-retries 3;
+            set net:timeout 20;
+            set mirror:parallel-transfer-count 4;
+            open -u \"\$UTILISATEUR\",\"\$MOTDEPASSE\" sftp://\$HOTE;
+            mirror --reverse --delete --verbose $MODE \
+              --exclude-glob .git*         \
+              --exclude .github/           \
+              --exclude tools/             \
+              --exclude data/_inbox/       \
+              --exclude data/_veille/      \
+              --exclude node_modules/      \
+              --exclude-glob README.md     \
+              --exclude-glob *_modele.json.txt \
+              --exclude-glob LISEZ-MOI.txt \
+              ./ \"\$DISTANT\";
+            bye
+          "
+
+      - name: Vérifier que le site répond
+        if: vars.SIMULATION_DEPLOIEMENT != 'true'
+        run: |
+          URL="${{ vars.URL_SITE }}"
+          if [ -z "$URL" ]; then
+            echo "Variable URL_SITE non définie, contrôle ignoré."
+            exit 0
+          fi
+          sleep 5
+          CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "$URL" || echo "000")
+          if [ "$CODE" != "200" ]; then
+            echo "::error::Le site répond $CODE au lieu de 200 après déploiement."
+            exit 1
+          fi
+          echo "Site en ligne, réponse 200."

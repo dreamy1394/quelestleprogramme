@@ -1,0 +1,89 @@
+{
+    "_commentaire": "Référentiel des thèmes. L'ordre de ce fichier détermine l'ordre d'affichage des mesures sur toutes les pages. Ajouter un thème ici avant de l'utiliser dans un fichier candidat.",
+    "themes": [
+        {
+            "id": "education",
+            "libelle": "Éducation",
+            "description": "École, enseignants, contenus et organisation des enseignements.",
+            "icone": "M12 3 2 8l10 5 10-5-10-5Zm0 10.5L5 10v4.5c0 2 3.1 3.5 7 3.5s7-1.5 7-3.5V10l-7 3.5Z"
+        },
+        {
+            "id": "securite",
+            "libelle": "Sécurité et justice",
+            "description": "Police, justice pénale, immigration, ordre public.",
+            "icone": "M12 2 4 5v6c0 5 3.4 9.2 8 11 4.6-1.8 8-6 8-11V5l-8-3Z"
+        },
+        {
+            "id": "sante",
+            "libelle": "Santé",
+            "description": "Hôpital, personnels soignants, médicaments, gouvernance du système de soins.",
+            "icone": "M10 3h4v5h5v4h-5v5h-4v-5H5V8h5V3Z"
+        },
+        {
+            "id": "economie",
+            "libelle": "Économie et travail",
+            "description": "Industrie, emploi, modèle économique, commerce extérieur.",
+            "icone": "M4 20V10h4v10H4Zm6 0V4h4v16h-4Zm6 0v-7h4v7h-4Z"
+        },
+        {
+            "id": "finances-publiques",
+            "libelle": "Finances publiques",
+            "description": "Dépense publique, dette, équilibre budgétaire.",
+            "icone": "M12 2 2 7v2h20V7L12 2ZM4 11v7H2v3h20v-3h-2v-7h-3v7h-3v-7h-3v7H7v-7H4Z"
+        },
+        {
+            "id": "impots",
+            "libelle": "Fiscalité",
+            "description": "Impôts des ménages et des entreprises, prélèvements.",
+            "icone": "M6 2h12l-1 20H7L6 2Zm3 5h6M9 12h6"
+        },
+        {
+            "id": "ecologie",
+            "libelle": "Écologie",
+            "description": "Climat, énergie, biodiversité, transition.",
+            "icone": "M12 21c5-1 9-5 9-11V4l-9 3-9-3v6c0 6 4 10 9 11Z"
+        },
+        {
+            "id": "europe",
+            "libelle": "Europe",
+            "description": "Place de la France dans l'Union européenne, droit européen, Schengen.",
+            "icone": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 2c1.9 0 3.6 3.6 3.6 8s-1.7 8-3.6 8-3.6-3.6-3.6-8S10.1 4 12 4Z"
+        },
+        {
+            "id": "international",
+            "libelle": "Relations internationales",
+            "description": "Diplomatie, défense, alliances, OTAN.",
+            "icone": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20ZM2.5 9h19M2.5 15h19"
+        },
+        {
+            "id": "intelligence-artificielle",
+            "libelle": "Intelligence artificielle et numérique",
+            "description": "Stratégie IA, souveraineté technologique, numérique.",
+            "icone": "M9 3h6v3h3v3h3v6h-3v3h-3v3H9v-3H6v-3H3V9h3V6h3V3Zm1.5 6v6h3V9h-3Z"
+        },
+        {
+            "id": "retraites",
+            "libelle": "Retraites",
+            "description": "Âge de départ, financement, régimes.",
+            "icone": "M12 6a3 3 0 1 0 0-4 3 3 0 0 0 0 4Zm-4 4h8l2 12h-3l-1-7-1 7H9l-1-7-1 7H4l2-12Z"
+        },
+        {
+            "id": "institutions",
+            "libelle": "Institutions et démocratie",
+            "description": "Constitution, référendums, mode de scrutin, décentralisation.",
+            "icone": "M12 2 2 8h20L12 2ZM5 10v8H3v3h18v-3h-2v-8h-3v8h-2v-8h-2v8H8v-8H5Z"
+        },
+        {
+            "id": "logement",
+            "libelle": "Logement",
+            "description": "Construction, accession, logement social, encadrement des loyers.",
+            "icone": "M12 3 2 11h3v10h6v-6h2v6h6V11h3L12 3Z"
+        },
+        {
+            "id": "agriculture",
+            "libelle": "Agriculture et alimentation",
+            "description": "Revenu agricole, PAC, souveraineté alimentaire.",
+            "icone": "M12 3c4 0 7 3 7 7 0 5-3 8-7 11-4-3-7-6-7-11 0-4 3-7 7-7Z"
+        }
+    ]
+}

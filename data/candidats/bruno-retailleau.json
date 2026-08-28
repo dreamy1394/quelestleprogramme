@@ -1,0 +1,95 @@
+{
+    "slug": "bruno-retailleau",
+    "nom": "Bruno Retailleau",
+    "nom_famille": "Retailleau",
+    "parti": "Les Républicains",
+    "parti_sigle": "LR",
+    "couleur": "#2c5f9e",
+    "statut_candidature": "pressentie",
+    "date_declaration": null,
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Élu de Vendée, Bruno Retailleau préside le conseil régional des Pays de la Loire de 2015 à 2017 puis le groupe Les Républicains au Sénat. Il est ministre de l'Intérieur à partir de septembre 2024 et prend la tête des Républicains en mai 2025.",
+        "parcours": [
+            {
+                "annee": "2004",
+                "evenement": "Élu sénateur de la Vendée."
+            },
+            {
+                "annee": "2010",
+                "evenement": "Élu président du conseil général de la Vendée."
+            },
+            {
+                "annee": "2014",
+                "evenement": "Élu président du groupe Les Républicains au Sénat."
+            },
+            {
+                "annee": "2015",
+                "evenement": "Élu président du conseil régional des Pays de la Loire."
+            },
+            {
+                "annee": "2024",
+                "evenement": "Nommé ministre de l'Intérieur en septembre."
+            },
+            {
+                "annee": "2025",
+                "evenement": "Élu président des Républicains en mai."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "securite",
+            "titre": "Référendums sur la justice pénale",
+            "detail": "Recours au référendum pour réformer la justice pénale.",
+            "source": null
+        },
+        {
+            "theme": "securite",
+            "titre": "Posture de « président de l'ordre »",
+            "detail": "Positionnement général sur l'autorité et l'ordre public, sans mesures chiffrées publiées à ce stade.",
+            "source": null
+        },
+        {
+            "theme": "finances-publiques",
+            "titre": "Redressement des comptes de 120 milliards d'euros",
+            "detail": "Redressement obtenu uniquement par la baisse des dépenses publiques, sans nouvelle hausse d'impôts.",
+            "chiffre": "120 Md€",
+            "source": null
+        },
+        {
+            "theme": "impots",
+            "titre": "Aucune nouvelle hausse d'impôt",
+            "detail": "Engagement de ne pas créer de nouvelle hausse d'impôt, hors mesures déjà votées en 2025.",
+            "source": null
+        },
+        {
+            "theme": "ecologie",
+            "titre": "« Écologie de progrès »",
+            "detail": "Orientation écologique fondée sur l'innovation et la croissance, en opposition explicite à la décroissance.",
+            "source": null
+        },
+        {
+            "theme": "economie",
+            "titre": "Réindustrialisation",
+            "detail": "Relance de la production industrielle sur le territoire national.",
+            "source": null
+        },
+        {
+            "theme": "intelligence-artificielle",
+            "titre": "L'IA comme « mère de toutes les batailles »",
+            "detail": "L'intelligence artificielle est présentée comme un enjeu central de progrès et de souveraineté.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [],
+    "a_suivre": [
+        "Débat économique du Medef du 27 août 2026 : premier grand oral commun aux candidats."
+    ]
+}

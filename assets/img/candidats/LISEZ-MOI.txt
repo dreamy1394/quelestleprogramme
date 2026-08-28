@@ -1,0 +1,41 @@
+PORTRAITS DES CANDIDATS
+=======================
+
+Aucune photo n'est livrée avec le site : les portraits de personnalités publiques sont protégés
+par le droit d'auteur du photographe, et une image récupérée sur Google ou sur un site de presse
+expose à une demande d'indemnisation. Un site politique est particulièrement surveillé sur ce point.
+
+Source retenue : Wikimedia Commons
+----------------------------------
+1. Aller sur https://commons.wikimedia.org et rechercher le nom du candidat.
+2. Ouvrir la photo et vérifier la licence dans le bloc « Licensing ».
+   Licences utilisables : CC BY, CC BY-SA, CC0, domaine public.
+   Licences à écarter : « Fair use », « non-commercial », « no derivatives », ou toute image
+   sans licence explicite.
+3. Télécharger la version la plus grande, recadrer en portrait (ratio 4/3, visage dans le tiers
+   supérieur), redimensionner à 800 px de large, exporter en JPEG qualité 80 ou en WebP.
+4. Nommer le fichier avec le slug du candidat : marine-le-pen.jpg
+5. Renseigner dans data/candidats/<slug>.json :
+
+   "photo": {
+     "fichier": "marine-le-pen.jpg",
+     "auteur": "Nom du photographe",
+     "credit": "Nom du photographe / Wikimedia Commons",
+     "licence": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:..."
+   }
+
+Le crédit est affiché automatiquement sous le portrait. Sur les licences CC BY et CC BY-SA,
+l'attribution n'est pas une politesse : c'est la condition de validité de la licence.
+
+Alternative sans photo
+----------------------
+Si aucune image libre satisfaisante n'existe pour un candidat, laisser "fichier": null.
+Le site affiche alors les initiales sur un aplat de la couleur du candidat — cohérent
+graphiquement, et neutre. Mieux vaut ce repli qu'une photo à la licence douteuse.
+
+Point d'équité à surveiller
+---------------------------
+Utiliser des photos de qualité comparable pour tous les candidats. Un portrait officiel soigné
+pour l'un et une photo de meeting mal cadrée pour l'autre introduit un biais visuel qui ruine
+la neutralité revendiquée par le site.

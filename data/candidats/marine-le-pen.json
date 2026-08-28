@@ -1,0 +1,179 @@
+{
+    "slug": "marine-le-pen",
+    "nom": "Marine Le Pen",
+    "nom_famille": "Le Pen",
+    "parti": "Rassemblement national",
+    "parti_sigle": "RN",
+    "couleur": "#1f4e79",
+    "statut_candidature": "pressentie",
+    "date_declaration": null,
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Avocate de formation, Marine Le Pen préside le Rassemblement national (ex-Front national) de 2011 à 2021. Elle est candidate à l'élection présidentielle en 2012, 2017 et 2022, accédant au second tour lors des deux derniers scrutins. Elle est députée du Pas-de-Calais et a présidé le groupe RN à l'Assemblée nationale.",
+        "parcours": [
+            {
+                "annee": "1998",
+                "evenement": "Élue conseillère régionale du Nord-Pas-de-Calais."
+            },
+            {
+                "annee": "2004",
+                "evenement": "Élue députée européenne."
+            },
+            {
+                "annee": "2011",
+                "evenement": "Élue présidente du Front national, succédant à Jean-Marie Le Pen."
+            },
+            {
+                "annee": "2012",
+                "evenement": "Première candidature à l'élection présidentielle (17,90 % au premier tour)."
+            },
+            {
+                "annee": "2017",
+                "evenement": "Candidate à l'élection présidentielle, qualifiée pour le second tour (33,90 %)."
+            },
+            {
+                "annee": "2018",
+                "evenement": "Le Front national devient le Rassemblement national."
+            },
+            {
+                "annee": "2022",
+                "evenement": "Candidate à l'élection présidentielle, qualifiée pour le second tour (41,45 %)."
+            },
+            {
+                "annee": "2022",
+                "evenement": "Élue députée du Pas-de-Calais, préside le groupe RN à l'Assemblée nationale."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "education",
+            "titre": "Retour aux savoirs fondamentaux",
+            "detail": "Recentrage des programmes scolaires sur le français, les mathématiques et l'histoire.",
+            "source": null
+        },
+        {
+            "theme": "education",
+            "titre": "Uniforme au primaire et au collège",
+            "detail": "Généralisation du port de l'uniforme dans les écoles primaires et les collèges.",
+            "source": null
+        },
+        {
+            "theme": "education",
+            "titre": "Sanctions des absences et des incivilités",
+            "detail": "Renforcement du régime de sanctions applicable à l'absentéisme et aux incivilités en milieu scolaire.",
+            "source": null
+        },
+        {
+            "theme": "securite",
+            "titre": "Réforme du droit des étrangers",
+            "detail": "Modification du droit des étrangers présentée comme visant à faciliter les procédures d'expulsion.",
+            "source": null
+        },
+        {
+            "theme": "securite",
+            "titre": "Priorité nationale",
+            "detail": "Instauration d'une priorité d'accès des nationaux à certains droits et prestations.",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "Moratoire sur les fermetures de lits",
+            "detail": "Arrêt des fermetures de lits hospitaliers.",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "500 lits de réanimation supplémentaires",
+            "detail": "Création de 500 lits de réanimation supplémentaires.",
+            "chiffre": "+500 lits",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "25 000 soignants supplémentaires",
+            "detail": "Recrutement de 25 000 infirmiers et aides-soignants supplémentaires.",
+            "chiffre": "+25 000 postes",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "Suppression des Agences régionales de santé",
+            "detail": "Suppression des ARS et redistribution de leurs compétences.",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "Gouvernance bicéphale de l'hôpital",
+            "detail": "Direction de l'hôpital partagée entre un directeur administratif et un médecin.",
+            "source": null
+        },
+        {
+            "theme": "sante",
+            "titre": "Rapatriement de la production de médicaments",
+            "detail": "Relocalisation en France de la production de médicaments jugés essentiels.",
+            "source": null
+        },
+        {
+            "theme": "international",
+            "titre": "Retrait du commandement intégré de l'OTAN",
+            "detail": "Sortie de la France du commandement militaire intégré de l'OTAN.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Europe des nations",
+            "detail": "Transformation de l'Union européenne en une alliance de nations souveraines.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Fin de l'espace Schengen",
+            "detail": "Sortie du régime de libre circulation Schengen et rétablissement des contrôles aux frontières nationales.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Primauté du droit français sur le droit européen",
+            "detail": "Inscription de la supériorité du droit national sur le droit de l'Union européenne.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Sortie de la PAC dans sa forme actuelle",
+            "detail": "Sortie de la politique agricole commune telle qu'elle existe aujourd'hui.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Abandon officiel du Frexit",
+            "detail": "La sortie de la France de l'Union européenne et de l'euro n'est plus au programme.",
+            "source": null
+        },
+        {
+            "theme": "economie",
+            "titre": "Protectionnisme économique",
+            "detail": "Mise en place de mesures de protection de la production nationale.",
+            "source": null
+        },
+        {
+            "theme": "economie",
+            "titre": "Souveraineté industrielle",
+            "detail": "Relocalisation et protection des filières industrielles jugées stratégiques.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [
+        "ecologie"
+    ],
+    "a_suivre": [
+        "Programme complet annoncé pour juillet 2026, encore incomplet à ce jour.",
+        "Position définitive du RN sur les retraites : divergence Bardella / Le Pen non tranchée."
+    ]
+}

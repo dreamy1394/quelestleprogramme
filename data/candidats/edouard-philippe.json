@@ -1,0 +1,81 @@
+{
+    "slug": "edouard-philippe",
+    "nom": "Édouard Philippe",
+    "nom_famille": "Philippe",
+    "parti": "Horizons",
+    "parti_sigle": "HOR",
+    "couleur": "#c9761a",
+    "statut_candidature": "declaree",
+    "date_declaration": null,
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Ancien membre des Républicains, Édouard Philippe est maire du Havre avant d'être nommé Premier ministre en 2017. Il quitte Matignon en juillet 2020, fonde le parti Horizons en 2021 et retrouve la mairie du Havre.",
+        "parcours": [
+            {
+                "annee": "2010",
+                "evenement": "Élu maire du Havre."
+            },
+            {
+                "annee": "2012",
+                "evenement": "Élu député de Seine-Maritime."
+            },
+            {
+                "annee": "2017",
+                "evenement": "Nommé Premier ministre."
+            },
+            {
+                "annee": "2020",
+                "evenement": "Quitte Matignon en juillet, redevient maire du Havre."
+            },
+            {
+                "annee": "2021",
+                "evenement": "Fonde le parti Horizons."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "education",
+            "titre": "Revalorisation de 20 % de la rémunération des enseignants",
+            "detail": "Hausse de 20 % sur le quinquennat, pour aligner la rémunération sur la moyenne de l'Union européenne.",
+            "chiffre": "+20 % sur 5 ans",
+            "source": null
+        },
+        {
+            "theme": "education",
+            "titre": "Réduction des effectifs par classe",
+            "detail": "Diminution du nombre d'élèves par classe.",
+            "source": null
+        },
+        {
+            "theme": "finances-publiques",
+            "titre": "Règle d'or budgétaire",
+            "detail": "Interdiction de financer les dépenses courantes de l'État par l'endettement.",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Ligne pro-européenne",
+            "detail": "Continuité de l'orientation européenne portée depuis 2017.",
+            "source": null
+        },
+        {
+            "theme": "intelligence-artificielle",
+            "titre": "L'IA inscrite au programme",
+            "detail": "Thème présent dans le programme, moins détaillé que chez d'autres candidats à ce stade.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [
+        "economie"
+    ],
+    "a_suivre": [
+        "Débat économique du Medef du 27 août 2026 : premier grand oral commun aux candidats."
+    ]
+}

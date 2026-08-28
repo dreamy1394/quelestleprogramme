@@ -1,0 +1,40 @@
+FILE D'ATTENTE DES MESURES PROPOSÉES
+====================================
+
+Rien n'entre sur le site directement. Toute mesure — proposée par la chaîne d'extraction
+automatique ou saisie à la main — transite par ce dossier ou par le formulaire du back-office,
+et n'est publiée qu'après validation humaine.
+
+Un fichier par proposition : AAAA-MM-JJ-<slug-candidat>-<numero>.json
+
+{
+  "candidat": "marine-le-pen",
+  "theme": "sante",
+  "titre": "Intitulé court proposé",
+  "detail": "Description neutre proposée, une à deux phrases.",
+  "chiffre": "+500 lits",
+  "citation": "La phrase exacte du document source, copiée sans modification.",
+  "source": {
+    "libelle": "Programme officiel, page 12",
+    "url": "https://…",
+    "date": "2026-09-15"
+  },
+  "confiance": "haute",
+  "genere_par": "extraction-auto-2026-09-15"
+}
+
+RÈGLES DE REJET AUTOMATIQUE
+---------------------------
+Le back-office refuse de publier une proposition si :
+- "citation" est vide → impossible de vérifier que la mesure n'a pas été inventée ou déformée
+- "source.url" est vide → impossible pour un lecteur de remonter à l'original
+- "candidat" ne correspond à aucun fichier de data/candidats/
+
+Ces trois règles ne sont pas négociables : ce sont elles qui empêchent la chaîne automatique
+de dégrader la valeur du site.
+
+CE QUI N'A PAS SA PLACE ICI
+---------------------------
+Une mesure extraite d'un article de presse. Un journaliste reformule — c'est son métier — et
+sa formulation n'est pas celle du candidat. La presse sert à savoir qu'il s'est passé quelque
+chose ; la transcription se fait toujours depuis le document officiel.

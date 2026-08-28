@@ -1,0 +1,107 @@
+{
+    "slug": "gabriel-attal",
+    "nom": "Gabriel Attal",
+    "nom_famille": "Attal",
+    "parti": "Renaissance",
+    "parti_sigle": "RE",
+    "couleur": "#e08a1e",
+    "statut_candidature": "pressentie",
+    "date_declaration": null,
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Gabriel Attal entre en politique au Parti socialiste avant de rejoindre le mouvement d'Emmanuel Macron en 2016. Porte-parole du gouvernement puis ministre de l'Éducation nationale, il est nommé Premier ministre en janvier 2024. Il dirige le parti Renaissance depuis décembre 2024.",
+        "parcours": [
+            {
+                "annee": "2017",
+                "evenement": "Élu député des Hauts-de-Seine."
+            },
+            {
+                "annee": "2018",
+                "evenement": "Secrétaire d'État auprès du ministre de l'Éducation nationale."
+            },
+            {
+                "annee": "2020",
+                "evenement": "Porte-parole du gouvernement."
+            },
+            {
+                "annee": "2022",
+                "evenement": "Ministre délégué chargé des Comptes publics."
+            },
+            {
+                "annee": "2023",
+                "evenement": "Ministre de l'Éducation nationale et de la Jeunesse."
+            },
+            {
+                "annee": "2024",
+                "evenement": "Nommé Premier ministre en janvier, quitte Matignon en septembre."
+            },
+            {
+                "annee": "2024",
+                "evenement": "Élu secrétaire général de Renaissance en décembre."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "education",
+            "titre": "Revalorisation salariale des enseignants",
+            "detail": "Augmentation de 200 à 500 € nets par mois de la rémunération des enseignants.",
+            "chiffre": "+200 à 500 €/mois nets",
+            "source": null
+        },
+        {
+            "theme": "education",
+            "titre": "Renforcement de l'autorité à l'école",
+            "detail": "Mesures visant à restaurer l'autorité des personnels au sein des établissements.",
+            "source": null
+        },
+        {
+            "theme": "securite",
+            "titre": "Renforcement de l'autorité républicaine",
+            "detail": "Axe général de renforcement de l'autorité de l'État, sans mesures détaillées publiées à ce stade.",
+            "source": null
+        },
+        {
+            "theme": "finances-publiques",
+            "titre": "Baisse ciblée d'impôts de 2 milliards d'euros",
+            "detail": "Baisse d'impôts ciblée sur les classes moyennes, sans réforme fiscale d'ensemble.",
+            "chiffre": "2 Md€",
+            "source": null
+        },
+        {
+            "theme": "impots",
+            "titre": "Baisse d'impôts pour les classes moyennes",
+            "detail": "Réduction ciblée de 2 milliards d'euros, en dehors de toute refonte globale de la fiscalité.",
+            "chiffre": "2 Md€",
+            "source": null
+        },
+        {
+            "theme": "europe",
+            "titre": "Ligne pro-européenne",
+            "detail": "Continuité de l'orientation européenne portée depuis 2017.",
+            "source": null
+        },
+        {
+            "theme": "economie",
+            "titre": "Continuité des réformes engagées depuis 2017",
+            "detail": "Poursuite de l'orientation économique libérale des mandats précédents.",
+            "source": null
+        },
+        {
+            "theme": "intelligence-artificielle",
+            "titre": "L'IA parmi les quatre chantiers prioritaires",
+            "detail": "L'intelligence artificielle est présentée comme l'un des quatre grands chantiers du programme.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [],
+    "a_suivre": [
+        "Débat économique du Medef du 27 août 2026 : premier grand oral commun aux candidats."
+    ]
+}

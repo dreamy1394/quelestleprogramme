@@ -1,0 +1,116 @@
+{
+    "_commentaire": "Référentiel des sources surveillées par tools/veille.php. Une source = une URL officielle. La presse n'a pas sa place ici : elle sert de signal, jamais de matière première pour transcrire une mesure. Le champ 'verifie' passe à true une fois l'URL confirmée par un premier scan réussi.",
+    "reglages": {
+        "delai_entre_requetes_ms": 1500,
+        "timeout_s": 25,
+        "user_agent": "Programmes2027-Veille/1.0 (+https://www.example.fr/methodologie.php ; veille documentaire, contact@example.fr)",
+        "seuil_lignes_modifiees": 3,
+        "taille_max_octets": 3000000
+    },
+    "sources": [
+        {
+            "id": "rn-communiques",
+            "candidat": "marine-le-pen",
+            "libelle": "Rassemblement national — communiqués",
+            "url": "https://rassemblementnational.fr/communiques",
+            "type": "communiques",
+            "priorite": "haute",
+            "verifie": true
+        },
+        {
+            "id": "rn-accueil",
+            "candidat": "marine-le-pen",
+            "libelle": "Rassemblement national — accueil",
+            "url": "https://rassemblementnational.fr/",
+            "type": "accueil",
+            "priorite": "moyenne",
+            "verifie": true
+        },
+        {
+            "id": "renaissance-accueil",
+            "candidat": "gabriel-attal",
+            "libelle": "Renaissance — accueil",
+            "url": "https://parti-renaissance.fr/",
+            "type": "accueil",
+            "priorite": "haute",
+            "verifie": true
+        },
+        {
+            "id": "renaissance-parti",
+            "candidat": "gabriel-attal",
+            "libelle": "Renaissance — le parti",
+            "url": "https://parti-renaissance.fr/le-parti",
+            "type": "programme",
+            "priorite": "moyenne",
+            "verifie": true
+        },
+        {
+            "id": "horizons-accueil",
+            "candidat": "edouard-philippe",
+            "libelle": "Horizons — accueil",
+            "url": "https://horizonsleparti.fr/",
+            "type": "accueil",
+            "priorite": "haute",
+            "verifie": true
+        },
+        {
+            "id": "horizons-organisation",
+            "candidat": "edouard-philippe",
+            "libelle": "Horizons — organisation",
+            "url": "https://horizonsleparti.fr/organisation/",
+            "type": "institutionnel",
+            "priorite": "basse",
+            "verifie": true
+        },
+        {
+            "id": "lr-accueil",
+            "candidat": "bruno-retailleau",
+            "libelle": "Les Républicains — accueil",
+            "url": "https://www.republicains.fr/",
+            "type": "accueil",
+            "priorite": "haute",
+            "verifie": false
+        },
+        {
+            "id": "lfi-accueil",
+            "candidat": "jean-luc-melenchon",
+            "libelle": "La France insoumise — accueil",
+            "url": "https://lafranceinsoumise.fr/",
+            "type": "accueil",
+            "priorite": "haute",
+            "verifie": false
+        },
+        {
+            "id": "lfi-programme",
+            "candidat": "jean-luc-melenchon",
+            "libelle": "La France insoumise — programme L'Avenir en commun",
+            "url": "https://lavenirencommun.fr/",
+            "type": "programme",
+            "priorite": "haute",
+            "verifie": false
+        },
+        {
+            "id": "place-publique-accueil",
+            "candidat": "raphael-glucksmann",
+            "libelle": "Place publique — accueil",
+            "url": "https://placepublique.eu/",
+            "type": "accueil",
+            "priorite": "haute",
+            "verifie": false
+        },
+        {
+            "id": "ps-accueil",
+            "candidat": "raphael-glucksmann",
+            "libelle": "Parti socialiste — accueil",
+            "url": "https://www.parti-socialiste.fr/",
+            "type": "accueil",
+            "priorite": "moyenne",
+            "verifie": false
+        }
+    ],
+    "_a_ajouter": [
+        "Les sites de campagne dédiés n'existent pas encore : ils apparaîtront entre l'automne 2026 et janvier 2027. Les ajouter dès leur ouverture, ils remplaceront les sites de partis comme source prioritaire.",
+        "Chaînes YouTube officielles et comptes X des candidats : utiles comme signal, mais la transcription d'une vidéo n'est pas une source écrite citable. À traiter à part.",
+        "Vie-publique.fr et le site du Conseil constitutionnel pour les éléments de procédure (parrainages, liste officielle des candidats)."
+    ]
+}

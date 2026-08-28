@@ -1,0 +1,81 @@
+name: Veille des programmes
+
+# Scan quotidien des sources officielles. Ne publie rien : détecte les mouvements
+# et ouvre une issue quand il y a matière à travailler.
+
+on:
+  schedule:
+    # 06h00 UTC = 08h00 Paris en été, 07h00 en hiver.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      init:
+        description: 'Réinitialiser l''état sans signaler de changement'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  scanner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: curl, dom, mbstring
+          coverage: none
+
+      - name: Lancer le radar
+        id: radar
+        continue-on-error: true
+        run: |
+          if [ "${{ inputs.init }}" = "true" ]; then
+            php tools/veille.php --init
+          else
+            php tools/veille.php
+          fi
+
+      - name: Vérifier l'intégrité des données
+        run: |
+          for f in data/themes.json data/sources.json data/candidats/*.json; do
+            php -r 'json_decode(file_get_contents($argv[1]), true);
+                    if (json_last_error() !== JSON_ERROR_NONE) {
+                      fwrite(STDERR, $argv[1].": ".json_last_error_msg()."\n"); exit(1);
+                    }' "$f"
+          done
+          echo "Tous les fichiers de données sont valides."
+
+      - name: Enregistrer l'état de la veille
+        run: |
+          git config user.name  "Radar de veille"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/_veille
+          if git diff --staged --quiet; then
+            echo "Aucun changement d'état à enregistrer."
+          else
+            git commit -m "veille: état du $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Ouvrir une issue si du contenu a bougé
+        if: steps.radar.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Le script sort en code 10 quand il détecte des changements ; l'étape
+          # est donc marquée "failure" alors que tout va bien.
+          TITRE="Veille — mouvements détectés le $(date -u +%d/%m/%Y)"
+          gh issue create \
+            --title "$TITRE" \
+            --body-file data/_veille/rapport.md \
+            --label veille || echo "Création d'issue impossible (label absent ?), rapport disponible dans le résumé du job."

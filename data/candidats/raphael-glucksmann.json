@@ -1,0 +1,57 @@
+{
+    "slug": "raphael-glucksmann",
+    "nom": "Raphaël Glucksmann",
+    "nom_famille": "Glucksmann",
+    "parti": "Place publique / Parti socialiste",
+    "parti_sigle": "PP-PS",
+    "couleur": "#d4547a",
+    "statut_candidature": "declaree",
+    "date_declaration": "2026-08-23",
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Essayiste et documentariste, Raphaël Glucksmann cofonde le mouvement Place publique en 2018. Tête de liste de l'alliance Place publique - Parti socialiste aux élections européennes de 2019 puis de 2024, il siège au Parlement européen depuis 2019.",
+        "parcours": [
+            {
+                "annee": "2018",
+                "evenement": "Cofonde le mouvement Place publique."
+            },
+            {
+                "annee": "2019",
+                "evenement": "Tête de liste PS - Place publique aux européennes, élu député européen."
+            },
+            {
+                "annee": "2024",
+                "evenement": "Tête de liste PS - Place publique aux européennes, réélu député européen."
+            },
+            {
+                "annee": "2026",
+                "evenement": "Déclare sa candidature à l'élection présidentielle le 23 août."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "europe",
+            "titre": "« Europe souveraine et écologique »",
+            "detail": "Orientation pro-européenne assumée, en continuité de son positionnement de député européen.",
+            "source": null
+        },
+        {
+            "theme": "ecologie",
+            "titre": "Alliance avec les écologistes",
+            "detail": "Ralliement de Yannick Jadot à sa candidature ; mesures programmatiques non détaillées à ce stade.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [],
+    "a_suivre": [
+        "Primaire Parti socialiste / Place publique prévue en octobre 2026.",
+        "Programme détaillé non publié à ce jour."
+    ]
+}

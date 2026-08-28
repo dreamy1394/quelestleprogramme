@@ -1,0 +1,57 @@
+MODÈLE DE FICHIER CANDIDAT
+==========================
+Copier ce contenu dans data/candidats/<slug>.json (sans l'extension .txt, sans ces lignes
+d'explication). Le slug doit être identique au champ "slug" et ne contenir que des lettres
+minuscules non accentuées et des tirets.
+
+Le fichier est détecté automatiquement : aucun code PHP à modifier pour ajouter un candidat.
+
+Champs :
+- statut_candidature : "declaree" | "pressentie" | "retiree"
+- couleur            : filet d'accent de la fiche, en hexadécimal
+- photo.fichier      : nom du fichier placé dans assets/img/candidats/ (ou null)
+- mesures[].theme    : doit correspondre à un "id" présent dans data/themes.json
+- mesures[].chiffre  : facultatif, affiché en surbrillance (ex. "+500 lits")
+- mesures[].source   : null tant que la source n'est pas trouvée ; le mode brouillon la signale
+- themes_annonces_sans_mesure : thèmes revendiqués par le candidat mais non détaillés
+
+--- copier à partir d'ici ---
+
+{
+  "slug": "prenom-nom",
+  "nom": "Prénom Nom",
+  "nom_famille": "Nom",
+  "parti": "Nom complet du parti",
+  "parti_sigle": "XX",
+  "couleur": "#5b6472",
+  "statut_candidature": "pressentie",
+  "date_declaration": null,
+  "photo": {
+    "fichier": null,
+    "credit": null,
+    "auteur": null,
+    "licence": null,
+    "source_url": null
+  },
+  "biographie": {
+    "resume": "Deux à quatre phrases factuelles : formation, fonctions exercées, mandats.",
+    "parcours": [
+      { "annee": "2020", "evenement": "Fait daté et vérifiable." }
+    ]
+  },
+  "mesures": [
+    {
+      "theme": "education",
+      "titre": "Intitulé court de la mesure",
+      "detail": "Une à deux phrases neutres décrivant la mesure.",
+      "chiffre": "",
+      "source": {
+        "libelle": "Programme officiel, page 12",
+        "url": "https://exemple.fr/programme.pdf",
+        "date": "2026-09-15"
+      }
+    }
+  ],
+  "themes_annonces_sans_mesure": [],
+  "a_suivre": []
+}

@@ -1,0 +1,68 @@
+{
+    "slug": "jean-luc-melenchon",
+    "nom": "Jean-Luc Mélenchon",
+    "nom_famille": "Mélenchon",
+    "parti": "La France insoumise",
+    "parti_sigle": "LFI",
+    "couleur": "#c0392b",
+    "statut_candidature": "pressentie",
+    "date_declaration": null,
+    "photo": {
+        "fichier": null,
+        "credit": null,
+        "auteur": null,
+        "licence": null,
+        "source_url": null
+    },
+    "biographie": {
+        "resume": "Ancien sénateur et ministre délégué à l'Enseignement professionnel, Jean-Luc Mélenchon quitte le Parti socialiste en 2008 pour fonder le Parti de gauche, puis La France insoumise en 2016. Il est candidat à l'élection présidentielle en 2012, 2017 et 2022.",
+        "parcours": [
+            {
+                "annee": "1986",
+                "evenement": "Élu sénateur de l'Essonne."
+            },
+            {
+                "annee": "2000",
+                "evenement": "Ministre délégué à l'Enseignement professionnel."
+            },
+            {
+                "annee": "2008",
+                "evenement": "Quitte le Parti socialiste et fonde le Parti de gauche."
+            },
+            {
+                "annee": "2012",
+                "evenement": "Candidat à l'élection présidentielle (11,10 % au premier tour)."
+            },
+            {
+                "annee": "2016",
+                "evenement": "Fonde La France insoumise."
+            },
+            {
+                "annee": "2017",
+                "evenement": "Candidat à l'élection présidentielle (19,58 %), élu député des Bouches-du-Rhône."
+            },
+            {
+                "annee": "2022",
+                "evenement": "Candidat à l'élection présidentielle (21,95 %)."
+            }
+        ]
+    },
+    "mesures": [
+        {
+            "theme": "ecologie",
+            "titre": "« État écologique »",
+            "detail": "Refondation de l'action publique autour de l'objectif écologique, présentée comme une rupture après l'été caniculaire 2026.",
+            "source": null
+        },
+        {
+            "theme": "economie",
+            "titre": "Rupture avec le modèle économique actuel",
+            "detail": "Changement de modèle économique, sans mesures techniques détaillées publiées à ce stade.",
+            "source": null
+        }
+    ],
+    "themes_annonces_sans_mesure": [],
+    "a_suivre": [
+        "Communication encore centrée sur le positionnement politique ; programme détaillé non publié à ce jour."
+    ]
+}

@@ -1,0 +1,15 @@
+# Snapshots de veille : volumineux, régénérables, et ils polluent les diffs.
+# L'état (etat.json) et les rapports sont versionnés, les snapshots non.
+data/_veille/snapshots/
+
+# Propositions traitées : conservées localement le temps d'un contrôle, pas dans l'historique.
+data/_inbox/validees/
+data/_inbox/rejetees/
+
+# Environnement local
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+node_modules/
