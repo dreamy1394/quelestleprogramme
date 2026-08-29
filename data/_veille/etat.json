@@ -1,0 +1,98 @@
+{
+    "rn-communiques": {
+        "url": "https://rassemblementnational.fr/communiques",
+        "empreinte": "360628b97099a228e26a9a47f51d20567b044fe447cd3717ebbd53a819894264",
+        "nb_lignes": 14,
+        "pdfs": [
+            "https://rassemblementnational.fr/documents/202406-programme.pdf",
+            "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+            "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+            "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "rn-accueil": {
+        "url": "https://rassemblementnational.fr/",
+        "empreinte": "29ce4f1b669d85d4d00a516f542afca032bdb4cdc1e1063aa5b843707cf8a4c9",
+        "nb_lignes": 59,
+        "pdfs": [
+            "https://rassemblementnational.fr/documents/202406-programme.pdf",
+            "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+            "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+            "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "renaissance-accueil": {
+        "url": "https://parti-renaissance.fr/",
+        "empreinte": "dd58a408117aac8041881a97ad31b38081b38d12af7fca16198c25fd1ada2385",
+        "nb_lignes": 97,
+        "pdfs": [
+            "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+            "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+            "https://doc.parti.re/statuts.pdf",
+            "https://doc.parti.re/reglement-interieur.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "renaissance-parti": {
+        "url": "https://parti-renaissance.fr/le-parti",
+        "empreinte": "0e95b84c82c3174e4db35ade813e8c06698baff45cb0afea1679cb74034687dd",
+        "nb_lignes": 2,
+        "pdfs": [
+            "https://doc.parti.re/statuts.pdf",
+            "https://doc.parti.re/reglement-interieur.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "horizons-accueil": {
+        "url": "https://horizonsleparti.fr/",
+        "empreinte": "d07061c16686167ec8128b81e76191c5733e9e750cf28534d3b10c7a7ad6719d",
+        "nb_lignes": 39,
+        "pdfs": [
+            "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "horizons-organisation": {
+        "url": "https://horizonsleparti.fr/organisation/",
+        "empreinte": "5dbd4f8a90685b33d9a4a0feb32d4073748490bce5d275d566725e617a48db3d",
+        "nb_lignes": 26,
+        "pdfs": [
+            "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "lr-accueil": {
+        "url": "https://www.republicains.fr/",
+        "empreinte": "b29a2b2692ad1879aaf082fceb695798f5862485e68f80a96a7d5b6741c597d2",
+        "nb_lignes": 74,
+        "pdfs": [],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "lfi-accueil": {
+        "url": "https://lafranceinsoumise.fr/",
+        "empreinte": "9a4e2c355743cef4bd8c3af6eee44622cde55e696b9ffd44752d14b125a3864a",
+        "nb_lignes": 34,
+        "pdfs": [
+            "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
+        ],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    },
+    "ps-accueil": {
+        "url": "https://www.parti-socialiste.fr/",
+        "empreinte": "6aba76e959aed0bfeae44324fb9d0bb467a03a679d88c16be4195a83c7bd2725",
+        "nb_lignes": 51,
+        "pdfs": [],
+        "dernier_scan": "2026-08-29 12:24",
+        "dernier_changement": "2026-08-29 12:24"
+    }
+}
