@@ -1,7 +1,7 @@
 {
     "rn-communiques": {
         "url": "https://rassemblementnational.fr/communiques",
-        "empreinte": "360628b97099a228e26a9a47f51d20567b044fe447cd3717ebbd53a819894264",
+        "empreinte": "c5531bfcd3dfe5fd6139210d77f606d7d03e7b245c55e9b9451ab49bf56c9425",
         "nb_lignes": 14,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
@@ -9,21 +9,21 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-08-31 12:52",
-        "dernier_changement": "2026-08-29 12:24"
+        "dernier_scan": "2026-09-02 10:45",
+        "dernier_changement": "2026-09-02 10:45"
     },
     "rn-accueil": {
         "url": "https://rassemblementnational.fr/",
-        "empreinte": "df9edf8480f722b3cd9c96fdec35c462f50485c5b5fdb3d9e1cc7361fa9fb681",
-        "nb_lignes": 58,
+        "empreinte": "1559c602607e0fe2692f6d424410b310ed14a05d4fe763e262b63a22df426bc9",
+        "nb_lignes": 57,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
             "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-08-31 12:52",
-        "dernier_changement": "2026-08-31 12:52"
+        "dernier_scan": "2026-09-02 10:45",
+        "dernier_changement": "2026-09-02 10:45"
     },
     "renaissance-accueil": {
         "url": "https://parti-renaissance.fr/",
@@ -35,7 +35,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-08-29 12:24"
     },
     "renaissance-parti": {
@@ -46,7 +46,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-accueil": {
@@ -56,7 +56,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-organisation": {
@@ -66,7 +66,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-08-29 12:24"
     },
     "lr-accueil": {
@@ -74,7 +74,7 @@
         "empreinte": "56a59902e102b51006fba177567930567ae1c71c6fdec4e5262df96fb94bf3f5",
         "nb_lignes": 74,
         "pdfs": [],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-09-01 11:12"
     },
     "lfi-accueil": {
@@ -84,7 +84,7 @@
         "pdfs": [
             "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
         ],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-09-01 11:12"
     },
     "ps-accueil": {
@@ -92,7 +92,7 @@
         "empreinte": "c087d897d1faf804bc8d6e18fc3e464cc641fb6f64071fc5c02dadaca5eedaa6",
         "nb_lignes": 53,
         "pdfs": [],
-        "dernier_scan": "2026-09-01 11:12",
+        "dernier_scan": "2026-09-02 10:45",
         "dernier_changement": "2026-09-01 11:12"
     }
 }
