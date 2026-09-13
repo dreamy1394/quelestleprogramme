@@ -9,7 +9,7 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-09-12 10:12"
     },
     "rn-accueil": {
@@ -22,7 +22,7 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-09-12 10:12"
     },
     "renaissance-accueil": {
@@ -35,7 +35,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-08-29 12:24"
     },
     "renaissance-parti": {
@@ -46,7 +46,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-accueil": {
@@ -56,7 +56,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-09-11 10:43"
     },
     "horizons-organisation": {
@@ -66,16 +66,16 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-08-29 12:24"
     },
     "lr-accueil": {
         "url": "https://www.republicains.fr/",
-        "empreinte": "47d22368593e0ab3368b066b03cbebd54421367649a2c6bd0c1690f779cd8592",
+        "empreinte": "361fa930271f8b9168d25ea0bf58b980ad77639775125c2d65165a27f056733e",
         "nb_lignes": 73,
         "pdfs": [],
-        "dernier_scan": "2026-09-12 10:12",
-        "dernier_changement": "2026-09-11 10:43"
+        "dernier_scan": "2026-09-13 11:11",
+        "dernier_changement": "2026-09-13 11:11"
     },
     "lfi-accueil": {
         "url": "https://lafranceinsoumise.fr/",
@@ -84,7 +84,7 @@
         "pdfs": [
             "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
         ],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-09-11 10:43"
     },
     "ps-accueil": {
@@ -92,7 +92,7 @@
         "empreinte": "0d1a271d048fb281855b3a8c1f5fa49c09b85bee56d30c1bebc408a017107607",
         "nb_lignes": 52,
         "pdfs": [],
-        "dernier_scan": "2026-09-12 10:12",
+        "dernier_scan": "2026-09-13 11:11",
         "dernier_changement": "2026-09-09 10:51"
     }
 }
