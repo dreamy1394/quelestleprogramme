@@ -1,55 +1,11 @@
-# Veille — 2026-09-26 10:54
+# Veille — 2026-09-27 11:31
 
-11 source(s) scannée(s) · **1 changement(s)** · 8 inchangée(s) · 2 erreur(s)
+11 source(s) scannée(s) · **0 changement(s)** · 9 inchangée(s) · 2 erreur(s)
 
-## Ce qui a bougé
-
-### Rassemblement national — accueil
-
-- Candidat concerné : `marine-le-pen`
-- Source : <https://rassemblementnational.fr/>
-- Ampleur : 55 ajout(s), 0 retrait(s)
-
-<details><summary>Texte ajouté sur la page</summary>
-
-```
-Rassemblement National - Accueil
-Les Français de l'étranger
-Logement : avec Marine Le Pen, appliquons la priorité nationale
-Submersion migratoire : protégeons nos frontières !
-Je soutiens Marine Le Pen
-La Marseillaise : LFI la siffle, nous la chantons !
-Tout savoir de l'actualité du RN et de Marine Le Pen
-J'accepte de recevoir les newsletters du Rassemblement National. Je pourrai toujours me
-désinscrire en cliquant sur le lien présent en bas de page de la newsletter.
-Je soutiens la première force d’opposition à Macron !
-Suivez le Rassemblement National
-Carburants : après avoir fait le plein de taxes, Macron fait le plein de promesses
-Carburants : que Bruxelles laisse enfin les États baisser les taxes !
-Pêche : le gouvernement noie le poisson.
-Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier
-Aleksandar Nikolic sur BFM
-Aleksandar Nikolic sera l'invité de BFM TV le dimanche 27 septembre 2026 à 17h.
-Julien Sanchez sera l'invité de TF1 le lundi 28 septembre 2026 à 07h35.
-Sébastien Chenu sur France Info TV
-Sébastien Chenu sera l'invité de France Info TV le lundi 28 septembre 2026 à 08h30.
-Jean-Philippe Tanguy sur LCI
-Jean-Philippe Tanguy sera l'invité de LCI le mardi 29 septembre 2026 à 08h25.
-Pour la réduction de la TVA de
-Je consens à ce que le Rassemblement National utilise mes données personnelles dans le cadre de mon soutien à cette mesure
-le référendum initiative citoyenne
-… (30 ligne(s) supplémentaire(s))
-```
-
-</details>
-
----
-
-> Ce rapport signale un mouvement, il ne qualifie rien. Une mesure n'entre sur le site
-> qu'après lecture de la source officielle et validation manuelle dans le back-office.
+Aucun mouvement significatif sur les sources surveillées.
 
 ## Sources injoignables
 
 - **La France insoumise — programme L'Avenir en commun** (<https://lavenirencommun.fr/>) — réponse HTTP 403 — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
-- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 235 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
+- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 481 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
 
