@@ -1,7 +1,7 @@
 {
     "rn-communiques": {
         "url": "https://rassemblementnational.fr/communiques",
-        "empreinte": "cd58edee33fc9ed0432081c30ede6343c31c96756f12e9a24d910164802d06b8",
+        "empreinte": "6c7bfe860c905a8f580cf143b737f9d444f944cf2b50bac757d7a506f86b60d7",
         "nb_lignes": 12,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
@@ -9,12 +9,12 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
-        "dernier_changement": "2026-09-25 11:17"
+        "dernier_scan": "2026-09-30 12:00",
+        "dernier_changement": "2026-09-30 12:00"
     },
     "rn-accueil": {
         "url": "https://rassemblementnational.fr/",
-        "empreinte": "8fcf019bd51b78dfe5c6a38f6169dc2d391f6c4f9b3b3beb96ca0862c8dddc12",
+        "empreinte": "32b2a3875e459199bbed8b2604369bbbe69086f5586f26b6375cbcee34931250",
         "nb_lignes": 56,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
@@ -22,8 +22,8 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
-        "dernier_changement": "2026-09-29 12:14"
+        "dernier_scan": "2026-09-30 12:00",
+        "dernier_changement": "2026-09-30 12:00"
     },
     "renaissance-accueil": {
         "url": "https://parti-renaissance.fr/",
@@ -35,7 +35,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-08-29 12:24"
     },
     "renaissance-parti": {
@@ -46,7 +46,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-accueil": {
@@ -56,7 +56,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-09-18 10:40"
     },
     "horizons-organisation": {
@@ -66,16 +66,16 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-08-29 12:24"
     },
     "lr-accueil": {
         "url": "https://www.republicains.fr/",
-        "empreinte": "a68a03bb6b3c287d464de35df189561c1f31280dff0374801f174f04999011a1",
-        "nb_lignes": 72,
+        "empreinte": "92778e3a0074a035fc4499b16d16d4a8a16685e2d01dd8c5ccc45f2b96cf9731",
+        "nb_lignes": 73,
         "pdfs": [],
-        "dernier_scan": "2026-09-29 12:14",
-        "dernier_changement": "2026-09-29 12:14"
+        "dernier_scan": "2026-09-30 12:00",
+        "dernier_changement": "2026-09-30 12:00"
     },
     "lfi-accueil": {
         "url": "https://lafranceinsoumise.fr/",
@@ -84,7 +84,7 @@
         "pdfs": [
             "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
         ],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-09-28 13:04"
     },
     "ps-accueil": {
@@ -92,7 +92,7 @@
         "empreinte": "7ba6ffd8a8af912eabb01330122f341e67b6b70fdaa2af9ec744d446cf47d384",
         "nb_lignes": 49,
         "pdfs": [],
-        "dernier_scan": "2026-09-29 12:14",
+        "dernier_scan": "2026-09-30 12:00",
         "dernier_changement": "2026-09-28 13:04"
     }
 }
