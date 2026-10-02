@@ -9,21 +9,21 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
+        "dernier_scan": "2026-10-02 11:58",
         "dernier_changement": "2026-09-30 12:00"
     },
     "rn-accueil": {
         "url": "https://rassemblementnational.fr/",
-        "empreinte": "f0f8291d766936d4126df5c702abf79873d4d2f060a2889d085c475878bb7bb9",
-        "nb_lignes": 56,
+        "empreinte": "d6cfeaeaaf1a4545ac8af2a381e8d56ab3769f46dbf99884e5354912c255589e",
+        "nb_lignes": 57,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
             "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
-        "dernier_changement": "2026-10-01 12:33"
+        "dernier_scan": "2026-10-02 11:58",
+        "dernier_changement": "2026-10-02 11:58"
     },
     "renaissance-accueil": {
         "url": "https://parti-renaissance.fr/",
@@ -35,7 +35,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
+        "dernier_scan": "2026-10-02 11:58",
         "dernier_changement": "2026-08-29 12:24"
     },
     "renaissance-parti": {
@@ -46,7 +46,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
+        "dernier_scan": "2026-10-02 11:58",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-accueil": {
@@ -56,7 +56,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
+        "dernier_scan": "2026-10-02 11:58",
         "dernier_changement": "2026-09-18 10:40"
     },
     "horizons-organisation": {
@@ -66,33 +66,33 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
+        "dernier_scan": "2026-10-02 11:58",
         "dernier_changement": "2026-08-29 12:24"
     },
     "lr-accueil": {
         "url": "https://www.republicains.fr/",
-        "empreinte": "9153a588dfb25abf54f7b449f4165fa627430b40fab8239578d5c7bb8ac5c41f",
+        "empreinte": "f891ff82c1f918d6f804be3f2b584cb8bdc5c24f0f810d596b5a5b02ec6055b2",
         "nb_lignes": 74,
         "pdfs": [],
-        "dernier_scan": "2026-10-01 12:33",
-        "dernier_changement": "2026-10-01 12:33"
+        "dernier_scan": "2026-10-02 11:58",
+        "dernier_changement": "2026-10-02 11:58"
     },
     "lfi-accueil": {
         "url": "https://lafranceinsoumise.fr/",
-        "empreinte": "c28f67ade0f1c022bb152e162748fe9285ee76f45c02ac357ef050f0fd39f157",
+        "empreinte": "212f0aacc9c9c906f75e58acbc4b5d266dab63c7515f9bb2cbf2631ccab97f00",
         "nb_lignes": 34,
         "pdfs": [
             "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
         ],
-        "dernier_scan": "2026-10-01 12:33",
-        "dernier_changement": "2026-10-01 12:33"
+        "dernier_scan": "2026-10-02 11:58",
+        "dernier_changement": "2026-10-02 11:58"
     },
     "ps-accueil": {
         "url": "https://www.parti-socialiste.fr/",
-        "empreinte": "7ba6ffd8a8af912eabb01330122f341e67b6b70fdaa2af9ec744d446cf47d384",
-        "nb_lignes": 49,
+        "empreinte": "d634a08a3a1a84ba65ffddffc23b45c472e1ceda4ffe98b839df48dcce3df3ee",
+        "nb_lignes": 51,
         "pdfs": [],
-        "dernier_scan": "2026-10-01 12:33",
-        "dernier_changement": "2026-09-28 13:04"
+        "dernier_scan": "2026-10-02 11:58",
+        "dernier_changement": "2026-10-02 11:58"
     }
 }
