@@ -1,55 +1,11 @@
-# Veille — 2026-10-03 11:12
+# Veille — 2026-10-04 11:51
 
-11 source(s) scannée(s) · **1 changement(s)** · 8 inchangée(s) · 2 erreur(s)
+11 source(s) scannée(s) · **0 changement(s)** · 9 inchangée(s) · 2 erreur(s)
 
-## Ce qui a bougé
-
-### Parti socialiste — accueil
-
-- Candidat concerné : `raphael-glucksmann`
-- Source : <https://www.parti-socialiste.fr/>
-- Ampleur : 51 ajout(s), 0 retrait(s)
-
-<details><summary>Texte ajouté sur la page</summary>
-
-```
-Social, éco­lo­gique & démocratique
-Nos valeurs sont au ser­vice du pro­grès humain dans toutes ses dimen­sions : l’émancipation indi­vi­duelle, la redis­tri­bu­tion des richesses, la pré­ser­va­tion éco­lo­gique, la sou­ve­rai­ne­té démo­cra­tique, la conquête de nou­veaux droits.
-Compte à rebours de la primaire
-Il te reste 00jours 00heures 00minutes 00secondes pour par­ti­ci­per à la pri­maire de la gauche sociale et démocratique…
-Le PS pre­mière force de gauche au Parlement et dans le pays
-LE PARTI SOCIALISTE APPELLE LE GOUVERNEMENT À ENTENDRE LES REVENDICATIONS LÉGITIMES DES REPRÉSENTANTS SYNDICAUX
-Les jeux de la Primaire socia­liste CHOISIR 2027
-Serbie : Le chan­ge­ment démo­cra­tique doit deve­nir possible
-Seconde vali­da­tion de la mesure conser­va­toire à l’égard de Philippe Brun
-Compte à rebours de la primaire
-LE PARTI SOCIALISTE APPELLE LE GOUVERNEMENT À ENTENDRE LES REVENDICATIONS LÉGITIMES DES REPRÉSENTANTS SYNDICAUX
-Les jeux de la Primaire socia­liste CHOISIR 2027
-Serbie : Le chan­ge­ment démo­cra­tique doit deve­nir possible
-Actualité en avant, Actualités
-Le PS pre­mière force de gauche au Parlement et dans le pays
-Les 7 prio­ri­tés des Socialistes pour le bud­get 2027
-Nouveaux et nou­velles maires
-Première force de gauche au parlement et dans les territoires
-Toute l’actualité éco­lo­gique et sociale de la semaine, direc­te­ment dans votre boîte mail !
-Je m’ins­cris à la newsletter
-Noûs est un think tank qui entend réar­mer la gauche face à l’ex­trême droite. Structuré autour d’un Conseil des savoirs, il pro­duit de la réflexion, des idées, et défriche de nou­veaux sujets pour affron­ter les grandes ques­tions contem­po­raines. Plus que des conte­nus, il veut faire front : en 
-décou­vrir le site de Noûs
-Nos valeurs sont au ser­vice du pro­grès humain dans toutes ses dimen­sions : l’émancipation indi­vi­duelle, la redis­tri­bu­tion des richesses, la pré­ser­va­tion éco­lo­gique, la sou­ve­rai­ne­té démo­cra­tique, la conquête de nou­veaux droits.
-EN SAVOIR PLUS SUR LE PROJET
-J’adhère au par­ti socialiste
-… (26 ligne(s) supplémentaire(s))
-```
-
-</details>
-
----
-
-> Ce rapport signale un mouvement, il ne qualifie rien. Une mesure n'entre sur le site
-> qu'après lecture de la source officielle et validation manuelle dans le back-office.
+Aucun mouvement significatif sur les sources surveillées.
 
 ## Sources injoignables
 
 - **La France insoumise — programme L'Avenir en commun** (<https://lavenirencommun.fr/>) — réponse HTTP 403 — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
-- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 461 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
+- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 284 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
 
