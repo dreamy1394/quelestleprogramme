@@ -1,6 +1,6 @@
-# Veille — 2026-10-15 10:57
+# Veille — 2026-10-16 10:49
 
-11 source(s) scannée(s) · **4 changement(s)** · 5 inchangée(s) · 2 erreur(s)
+11 source(s) scannée(s) · **4 changement(s)** · 4 inchangée(s) · 3 erreur(s)
 
 ## Ce qui a bougé
 
@@ -15,6 +15,8 @@
 ```
 Rassemblement National - Accueil
 Les Français de l'étranger
+Automobile : Bruxelles impose ses contraintes aux Européens...
+Budget européen : Bruxelles ne connaît pas la rigueur !
 Projet de loi de finances 2027 : le RN s’oppose au rabotage...
 Nouvelles nominations au sein de l'équipe de campagne de Mar...
 Accès à l’eau dans les outremers : le vote sectaire du Parle...
@@ -22,8 +24,6 @@ Accès à l’eau dans les outremers : le vote sectaire du Parle...
 Plomb dans les munitions : LR, Renaissance et la gauche tour...
 Bruxelles fait encore payer les transporteurs routiers !
 Rima Hassan : Les Patriotes demandent des sanctions au Parle...
-Diffamation de Jean-François Jalkh : Mediapart continue dans...
-Droit de vote, financements publics : Le Conseil de l’Europe...
 Je soutiens le Rassemblement National
 ```
 
@@ -33,7 +33,7 @@ Je soutiens le Rassemblement National
 
 - Candidat concerné : `marine-le-pen`
 - Source : <https://rassemblementnational.fr/>
-- Ampleur : 54 ajout(s), 0 retrait(s)
+- Ampleur : 56 ajout(s), 0 retrait(s)
 
 <details><summary>Texte ajouté sur la page</summary>
 
@@ -51,19 +51,19 @@ J'accepte de recevoir les newsletters du Rassemblement National. Je pourrai touj
 désinscrire en cliquant sur le lien présent en bas de page de la newsletter.
 Je soutiens la première force d’opposition à Macron !
 Suivez le Rassemblement National
+Automobile : Bruxelles impose ses contraintes aux Européens et déroule le tapis rouge à la Chine !
+Budget européen : Bruxelles ne connaît pas la rigueur !
 Projet de loi de finances 2027 : le RN s’oppose au rabotage des crédits agricoles ultramarins et dépose un amendement de compensation
 Nouvelles nominations au sein de l'équipe de campagne de Marine Le Pen.
-Accès à l’eau dans les outremers : le vote sectaire du Parlement empêche l’adoption de la résolution du Rassemblement National
-2035 : l’interdiction totale du thermique est en train de tomber !
-Philippe Ballard sera l'invité de LCI le jeudi 15 octobre 2026 à 13h30.
-Philippe Ballard sera l'invité de BFMTV le jeudi 15 octobre 2026 à 16h50.
-Marine Le Pen sera l'invitée de Laurence Ferrari sur CNEWS le jeudi 15 octobre à 21h.
-Sébastien Chenu sera l'invité de LCI le vendredi 16 octobre 2026 à 08h30.
+Jordan Bardella au Mondial de l'Auto
+Jordan Bardella sera présent au Mondial de l’Auto ce vendredi 16 octobre, à partir de 15h, porte de Versailles hall 5.1.
+Gaëtan Dussausaye sur CNEWS
+Gaëtan Dussausaye sera l'invité de CNEWS le vendredi 16 octobre 2026 à 17h.
+Andréa Kotarac sera l'invité de LCI le vendredi 16 octobre 2026 à 21h50.
+Sébastien Chenu sera l'invité de RTL le dimanche 18 octobre 2026 à 12h.
 Pour la réduction de la TVA de
 Je consens à ce que le Rassemblement National utilise mes données personnelles dans le cadre de mon soutien à cette mesure
-le référendum initiative citoyenne
-Je consens à ce que le Rassemblement National utilise mes données personnelles dans le cadre de mon soutien à cette mesure
-… (29 ligne(s) supplémentaire(s))
+… (31 ligne(s) supplémentaire(s))
 ```
 
 </details>
@@ -80,7 +80,7 @@ Je consens à ce que le Rassemblement National utilise mes données personnelles
 La France insoumise - Accueil - La France insoumise
 Soutenez la candidature de Jean-Luc Mélenchon pour l’élection présidentielle de 2027 !
 Le programme l’Avenir en commun édition 2025
-Grande mobilisation étudiante, lycéenne et syndicale mardi 13 octobre : retrouvez la liste des villes où manifester
+Mobilisations du 17 octobre : où manifester en France ?
 Signez la pétition pour la destitution de Macron !
 Fonderie de Bretagne : l’État a organisé le désastre avec Europlasma
 Nickel en Kanaky-Nouvelle-Calédonie : la France doit respecter ses obligations de puissance administrante
@@ -111,7 +111,7 @@ Gérer le consentement aux cookies
 
 - Candidat concerné : `raphael-glucksmann`
 - Source : <https://www.parti-socialiste.fr/>
-- Ampleur : 49 ajout(s), 0 retrait(s)
+- Ampleur : 48 ajout(s), 0 retrait(s)
 
 <details><summary>Texte ajouté sur la page</summary>
 
@@ -120,16 +120,16 @@ Social, éco­lo­gique & démocratique
 Nos valeurs sont au ser­vice du pro­grès humain dans toutes ses dimen­sions : l’émancipation indi­vi­duelle, la redis­tri­bu­tion des richesses, la pré­ser­va­tion éco­lo­gique, la sou­ve­rai­ne­té démo­cra­tique, la conquête de nou­veaux droits.
 La jeunesse se lève. Soutenons-la !
 Partout en France, les lycéen·nes et les étudiant·es se mobi­lisent pour por­ter des reven­di­ca­tions claires : plus de moyens pour les lycées, des condi­tions d’études dignes,…
-L’assemblée natio­nale adopte la loi inté­grale à l’unanimité
+L’assemblée natio­nale adopte la loi inté­grale à l’unanimité !
+Budget 2026 : Nos pro­po­si­tions pour les lycéen nes et pour leur ave­nir dans l’enseignement supérieur
 La loi inté­grale a été adop­tée hier soir en séance à l’Assemblée nationale.
-CHOISIR 2027 | Rétablissement de ser­vice de la pla­te­forme : les élec­teurs pour­ront voter jusqu’à dimanche 18h
-CHOISIR 2027 | La pla­te­forme e‑votez objet d’une cybe­rat­taque : vote ralen­ti mais pas compromis
-La loi inté­grale a été adop­tée hier soir en séance à l’Assemblée nationale.
+MARDI 13 OCTOBRE : ON ARRÊTE TOUT !
 Actualité en avant, Actualités
-L’assemblée natio­nale adopte la loi inté­grale à l’unanimité
+L’assemblée natio­nale adopte la loi inté­grale à l’unanimité !
+Budget 2026 : Nos pro­po­si­tions pour les lycéen nes et pour leur ave­nir dans l’enseignement supérieur
+La loi inté­grale a été adop­tée hier soir en séance à l’Assemblée nationale.
 La jeu­nesse se lève. Soutenons-la !
-CHOISIR 2027 | Rétablissement de ser­vice de la pla­te­forme : les élec­teurs pour­ront voter jusqu’à dimanche 18h
-CHOISIR 2027 | La pla­te­forme e‑votez objet d’une cybe­rat­taque : vote ralen­ti mais pas compromis
+MARDI 13 OCTOBRE : ON ARRÊTE TOUT !
 Nouveaux et nou­velles maires
 Première force de gauche au parlement et dans les territoires
 Toute l’actualité éco­lo­gique et sociale de la semaine, direc­te­ment dans votre boîte mail !
@@ -141,7 +141,7 @@ EN SAVOIR PLUS SUR LE PROJET
 J’adhère au par­ti socialiste
 Je renou­vellemon adhé­sion
 Merci aux 262 donateur·rice·s qui ont permis à ce site d’être actif !
-… (24 ligne(s) supplémentaire(s))
+… (23 ligne(s) supplémentaire(s))
 ```
 
 </details>
@@ -153,6 +153,7 @@ Merci aux 262 donateur·rice·s qui ont permis à ce site d’être actif !
 
 ## Sources injoignables
 
+- **Les Républicains — accueil** (<https://www.republicains.fr/>) — Maximum (5) redirects followed — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
 - **La France insoumise — programme L'Avenir en commun** (<https://lavenirencommun.fr/>) — réponse HTTP 403 — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
-- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 298 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
+- **Place publique — accueil** (<https://placepublique.eu/>) — Failed to connect to placepublique.eu port 443 after 490 ms: Couldn't connect to server — *URL jamais confirmée, à vérifier à la main dans `data/sources.json`*
 
