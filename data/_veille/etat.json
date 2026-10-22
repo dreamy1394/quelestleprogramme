@@ -1,7 +1,7 @@
 {
     "rn-communiques": {
         "url": "https://rassemblementnational.fr/communiques",
-        "empreinte": "57e78e1485000df14b67082b67fe1eba21bd1623a4d93371df35cb30a02cd9b3",
+        "empreinte": "20e0b11972b9d4ea3b5022f26056a966338ab9a4900d3ae7ebd7c7b8f12b0784",
         "nb_lignes": 12,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
@@ -9,21 +9,21 @@
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
-        "dernier_changement": "2026-10-21 11:16"
+        "dernier_scan": "2026-10-22 11:15",
+        "dernier_changement": "2026-10-22 11:15"
     },
     "rn-accueil": {
         "url": "https://rassemblementnational.fr/",
-        "empreinte": "7175b1ead078492d83820e3f91d393d9a84f246cf3d90d4cacb7bdb32f73b0a3",
-        "nb_lignes": 58,
+        "empreinte": "ac3a3f77480909017453b1e10c324b4ee93da5a1e917f749d3b54430c0ba87f1",
+        "nb_lignes": 61,
         "pdfs": [
             "https://rassemblementnational.fr/documents/202406-programme.pdf",
             "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
             "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
             "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
-        "dernier_changement": "2026-10-21 11:16"
+        "dernier_scan": "2026-10-22 11:15",
+        "dernier_changement": "2026-10-22 11:15"
     },
     "renaissance-accueil": {
         "url": "https://parti-renaissance.fr/",
@@ -35,7 +35,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-08-29 12:24"
     },
     "renaissance-parti": {
@@ -46,7 +46,7 @@
             "https://doc.parti.re/statuts.pdf",
             "https://doc.parti.re/reglement-interieur.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-08-29 12:24"
     },
     "horizons-accueil": {
@@ -56,7 +56,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-09-18 10:40"
     },
     "horizons-organisation": {
@@ -66,7 +66,7 @@
         "pdfs": [
             "https://adherer.horizonsleparti.fr/storage/reglement_interieur-v1.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-08-29 12:24"
     },
     "lr-accueil": {
@@ -74,25 +74,25 @@
         "empreinte": "89224f97a6212f3e6df846e5636702df7e787ded1ba56dab75e9f4cf47480314",
         "nb_lignes": 72,
         "pdfs": [],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-10-08 12:54"
     },
     "lfi-accueil": {
         "url": "https://lafranceinsoumise.fr/",
-        "empreinte": "1b8649f6ff42fc1175295036bdf32c268312f05fdf82009bfd9f92f898b95d04",
+        "empreinte": "e0e5a4ee47a5bf8888e4d20d7a93aedb8fbdf755877861be3af1f3ee06a56d28",
         "nb_lignes": 34,
         "pdfs": [
             "https://leftalliance.eu/wp-content/uploads/2025/09/ELA-Platforme-Politique.pdf"
         ],
-        "dernier_scan": "2026-10-21 11:16",
-        "dernier_changement": "2026-10-16 10:49"
+        "dernier_scan": "2026-10-22 11:15",
+        "dernier_changement": "2026-10-22 11:15"
     },
     "ps-accueil": {
         "url": "https://www.parti-socialiste.fr/",
         "empreinte": "ff5c60abe543d142e5756da2ef9ba3dcb963406d34286b7749c8a40e4ff50b42",
         "nb_lignes": 53,
         "pdfs": [],
-        "dernier_scan": "2026-10-21 11:16",
+        "dernier_scan": "2026-10-22 11:15",
         "dernier_changement": "2026-10-20 11:00"
     }
 }
